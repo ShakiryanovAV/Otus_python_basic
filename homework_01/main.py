@@ -46,5 +46,5 @@ def filter_numbers(lst, param):
     if param == EVEN:
         return list(filter(lambda x: x % 2 == 0, lst))
     if param == PRIME:
-        return list(filter(lambda x: is_prime(x), lst))
+        return list(filter(is_prime, lst))
 
