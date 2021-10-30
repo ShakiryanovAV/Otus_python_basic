@@ -4,6 +4,7 @@ beautifulsoup4==4.7.1
 certifi==2020.4.5.1
 chardet==3.0.4
 colorama==0.4.3
+dataclasses==0.8
 docker==5.0.0
 et-xmlfile==1.0.1
 Faker==8.1.2
